@@ -1,0 +1,11 @@
+nodes:
+- kA
+- kB
+- kZ
+edges:
+- from: kB
+  to: kA
+- from: kZ
+  to: kA
+- from: kZ
+  to: kB

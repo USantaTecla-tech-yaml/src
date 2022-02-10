@@ -1,0 +1,11 @@
+title: Chrome
+options:
+- Nueva pestaña
+- Nueva ventana
+- Nueva ventana de incógnito
+- title: Ayuda
+  options:
+  - Información de Google Chrome
+  - Centro de Ayuda
+  - Notificar un error
+- Salir
