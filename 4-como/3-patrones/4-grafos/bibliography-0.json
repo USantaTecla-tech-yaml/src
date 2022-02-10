@@ -1,0 +1,48 @@
+{
+    "books" : [
+        {
+            "id" : 1,
+            "author" : "Frederick P. Brooks",
+            "title" : "The Mythical Man Month. Essays on Software Engineering",
+            "year" : 1995,
+            "publisher" : "Prentice Hall",
+            "referemces" :[
+            ]
+        },
+        {
+            "id" : 2,
+            "author" :  "Grady Booch",
+            "title" : "Object Oriented Analysis and Design with Applications",
+            "year" : 2011,
+            "publisher" : "Addison-Wesley",
+            "referemces" :[
+                1
+            ]
+        },
+        {
+            "id" : 1,
+            "author" :  "Robert C. Martin",
+            "title" : "Clean Code. A Handbook of Agile Software Craftsmanship",
+            "year" : 2008,
+            "publisher" : "Prentice Hall",
+            "referemces" :[
+                1,
+                2
+            ]
+        }
+    ],
+    "references" : [
+        {
+            "from" : 2,
+            "to" : 1
+        },
+        {
+            "from" : 3,
+            "to" : 2
+        },
+        {
+            "from" : 3,
+            "to" : 1
+        }
+    ]
+}

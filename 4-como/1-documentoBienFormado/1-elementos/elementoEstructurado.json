@@ -1,0 +1,10 @@
+{
+    "property1" : "informacion",
+    "property2" : 0,
+    "properties" : [
+        "informacion",
+        "informacion",
+        "informacion"
+    ],
+    "propertyN" : true
+} 

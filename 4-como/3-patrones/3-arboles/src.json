@@ -1,0 +1,31 @@
+{
+    "node": "Elemento_1",
+    "trees": [
+        {
+            "node": "Elemento_11",
+            "trees": [
+                {
+                    "node": "Elemento_111",
+                    "trees": []
+                },
+                {
+                    "node": "Elemento_112",
+                    "trees": []
+                },
+                {
+                    "node": "Elemento_113",
+                    "trees": [
+                        {
+                            "node": "Elemento_1131",
+                            "trees": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "node": "Elemento_12",
+            "trees": []
+        }
+    ]
+}

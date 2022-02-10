@@ -1,0 +1,20 @@
+[
+    {
+        "node" : "kA",
+        "edges" : [
+        ]
+    },
+    {
+        "node" : "kB",
+        "edges" : [
+            "kA"
+        ]
+    },
+    {
+        "node" : "kZ",
+        "edges" : [
+            "kA",
+            "kB"
+        ]
+    }
+]
